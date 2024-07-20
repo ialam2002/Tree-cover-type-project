@@ -2,9 +2,10 @@
 For this proejct I wiil be using deep learning to predit forest cover types based on cartographic variables.
 
 
-## Python Notebook
+## The data
 
 Within a Python notebook I include some exploratory data analysis of the dataset. 
+The dataset is located in the `.zip ` file labelled `cover_data.zip`. It is a `.csv` file.
 There are 55 columns here is what each column means:
 
 - Elevation / quantitative /meters / Elevation in meters
